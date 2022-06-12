@@ -113,7 +113,9 @@
     .menu-btn{
         display: none;
         }
-
+    .footer-social-list{
+        justify-content:center;
+    }
 
   }
   
@@ -321,5 +323,8 @@
 
     .footer-socials{
         width: 100%;
+    }
+    .footer-social-list{
+        justify-content:center;
     }
   }
